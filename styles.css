@@ -1,0 +1,350 @@
+/* css styles */
+
+/* =========================================================
+   ALTERNATING VERTICAL TIMELINE
+   ========================================================= */
+
+.alternating-timeline {
+  width: 100%;
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+
+/* Each horizontal timeline entry */
+.timeline-item {
+  --timeline-color: #5588aa;
+
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 84px minmax(0, 1fr);
+  align-items: center;
+  min-height: 190px;
+}
+
+/* Left and right portions */
+.timeline-left,
+.timeline-right {
+  position: relative;
+  padding: 1rem 1.5rem;
+}
+
+.timeline-left {
+  text-align: right;
+}
+
+.timeline-right {
+  text-align: left;
+}
+
+/* Horizontal connectors */
+.timeline-left::after,
+.timeline-right::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 30px;
+  height: 2px;
+  background-color: #8b9095;
+}
+
+.timeline-left::after {
+  right: -30px;
+}
+
+.timeline-right::before {
+  left: -30px;
+}
+
+/* Central colored segment */
+.timeline-center {
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.timeline-segment {
+  width: 30px;
+  height: calc(100% - 14px);
+  min-height: 145px;
+  background-color: var(--timeline-color);
+  border-radius: 999px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.14);
+}
+
+/* Circular stage marker */
+.timeline-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeline-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: max-content;
+  min-width: 8rem;
+  max-width: 15rem;
+  min-height: 3.25rem;
+  padding: 0.65rem 1.1rem;
+
+  border: 4px solid var(--timeline-color);
+  border-radius: 14px;
+
+  background-color: white;
+  color: var(--timeline-color);
+
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-align: center;
+
+  white-space: normal;
+  overflow-wrap: break-word;
+
+  box-sizing: border-box;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* Date or stage */
+.timeline-date {
+  margin-bottom: 0.3rem;
+  color: #30343a;
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* Investigation title */
+.timeline-copy h3 {
+  margin-top: 0.4rem;
+  margin-bottom: 0.45rem;
+  color: var(--timeline-color);
+  font-size: 1.15rem;
+}
+
+/* Description */
+.timeline-copy p {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #555b61;
+}
+
+/* Colors for individual stages */
+.timeline-item.lime {
+  --timeline-color: #8fc900;
+}
+
+.timeline-item.pink {
+  --timeline-color: #e83e8c;
+}
+
+.timeline-item.purple {
+  --timeline-color: #a94bb8;
+}
+
+.timeline-item.orange {
+  --timeline-color: #ee9317;
+}
+
+.timeline-item.red {
+  --timeline-color: #dc4141;
+}
+
+.timeline-item.teal {
+  --timeline-color: #14b8b1;
+}
+
+/* Mobile layout */
+@media (max-width: 700px) {
+  .timeline-item {
+    grid-template-columns: 45px minmax(0, 1fr);
+    min-height: 155px;
+    margin-bottom: 1rem;
+  }
+
+  .timeline-center {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .timeline-copy {
+    grid-column: 2;
+    grid-row: 1;
+    padding: 1rem 0 1rem 1.25rem;
+    text-align: left;
+  }
+
+  .timeline-icon-wrap {
+    display: none;
+  }
+
+  .timeline-left::after,
+  .timeline-right::before {
+    display: none;
+  }
+
+  .timeline-copy::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: -18px;
+    width: 18px;
+    height: 2px;
+    background-color: #8b9095;
+  }
+
+  .timeline-segment {
+    width: 22px;
+    min-height: 135px;
+  }
+
+  .timeline-date {
+    font-size: 2rem;
+  }
+}
+
+
+
+/* =========================================================
+   TIMELINE GROUP TITLE
+   ========================================================= */
+
+.timeline-group-title {
+  display: grid;
+  grid-template-columns: minmax(2rem, 1fr) auto minmax(2rem, 1fr);
+  align-items: center;
+  gap: 1rem;
+
+  margin: 3rem 0 1.25rem;
+}
+
+/* Horizontal lines on both sides */
+.timeline-group-title::before,
+.timeline-group-title::after {
+  content: "";
+  height: 2px;
+  background-color: #b8bec5;
+}
+
+/* Rounded title label */
+.timeline-group-title span {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+
+  border: 3px solid #527aa3;
+  border-radius: 999px;
+
+  background-color: white;
+  color: #527aa3;
+
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* Mobile adjustment */
+@media (max-width: 700px) {
+  .timeline-group-title {
+    grid-template-columns: 1fr;
+    margin-top: 2.25rem;
+  }
+
+  .timeline-group-title::before,
+  .timeline-group-title::after {
+    display: none;
+  }
+
+  .timeline-group-title span {
+    justify-self: start;
+    font-size: 1rem;
+  }
+}
+
+
+
+/* Album-cover grid */
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+  align-items: start;
+}
+
+.album-grid a {
+  display: block;
+}
+
+.album-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 10px;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.album-grid a:hover img {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+}
+
+/* Stack the covers on smaller screens */
+@media (max-width: 700px) {
+  .album-grid {
+    grid-template-columns: 1fr;
+    max-width: 360px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+
+
+/* Home-page profile section */
+
+.home-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.home-profile-image {
+  flex: 0 0 280px;
+  margin-top: 0.4rem;
+}
+
+.home-profile-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
+.home-profile-text {
+  flex: 1;
+}
+
+.home-profile-text > :first-child {
+  margin-top: 0;
+}
+
+/* Stack the image and text on smaller screens */
+@media (max-width: 700px) {
+  .home-profile {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .home-profile-image {
+    flex-basis: auto;
+    width: min(280px, 100%);
+  }
+}
