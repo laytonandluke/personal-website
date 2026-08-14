@@ -348,3 +348,49 @@
     width: min(280px, 100%);
   }
 }
+
+
+
+
+.photo-slideshow {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 850px) 3rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 1.5rem auto;
+}
+
+.photo-slides {
+  width: 100%;
+}
+
+.photo-slide {
+  display: none;
+  height: auto;
+  margin: 0 auto;
+}
+
+.photo-slide.active {
+  display: block;
+}
+
+/* Photos 1 and 2 */
+.photo-slide.portrait {
+  width: 100%;
+  max-width: 500px;
+}
+
+/* Photos 3 and 4 */
+.photo-slide.landscape {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.photo-arrow {
+  border: none;
+  background: transparent;
+  font-size: 2.2rem;
+  cursor: pointer;
+  padding: 0.5rem;
+}

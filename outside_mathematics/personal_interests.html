@@ -157,6 +157,46 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p>Below are some moments I remember fondly:</p>
+<div class="photo-slideshow">
+<button class="photo-arrow photo-prev" type="button" aria-label="Previous photo">❮</button>
+
+<div class="photo-slides">
+<img class="photo-slide active portrait" src="../images/Photo_1.jpg" alt="Photo 1">
+<img class="photo-slide portrait" src="../images/Photo_2.jpg" alt="Photo 2">
+<img class="photo-slide landscape" src="../images/Photo_3.jpg" alt="Photo 3">
+<img class="photo-slide landscape" src="../images/Photo_4.jpg" alt="Photo 4">
+</div>
+
+<button class="photo-arrow photo-next" type="button" aria-label="Next photo">❯</button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slideshow = document.querySelector(".photo-slideshow");
+  const slides = slideshow.querySelectorAll(".photo-slide");
+  const prev = slideshow.querySelector(".photo-prev");
+  const next = slideshow.querySelector(".photo-next");
+
+  let current = 0;
+
+  function showSlide(index) {
+    slides.forEach((slide, i) => {
+      slide.classList.toggle("active", i === index);
+    });
+  }
+
+  prev.addEventListener("click", function () {
+    current = (current - 1 + slides.length) % slides.length;
+    showSlide(current);
+  });
+
+  next.addEventListener("click", function () {
+    current = (current + 1) % slides.length;
+    showSlide(current);
+  });
+});
+</script>
 
 
 
