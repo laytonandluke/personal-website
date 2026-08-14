@@ -353,44 +353,70 @@
 
 
 .photo-slideshow {
-  display: grid;
-  grid-template-columns: 3rem minmax(0, 850px) 3rem;
+  display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.75rem;
+  gap: 1rem;
   margin: 1.5rem auto;
-}
-
-.photo-slides {
   width: 100%;
 }
 
+.photo-slides {
+  width: min(100%, 750px);
+  text-align: center;
+}
+
 .photo-slide {
-  display: none;
-  height: auto;
-  margin: 0 auto;
+  display: none !important;
+  width: auto !important;
+  height: auto !important;
+  margin: 0 auto !important;
+  object-fit: contain;
 }
 
 .photo-slide.active {
-  display: block;
+  display: block !important;
 }
 
 /* Photos 1 and 2 */
 .photo-slide.portrait {
-  width: 100%;
-  max-width: 500px;
+  max-width: min(100%, 420px) !important;
+  max-height: 650px;
 }
 
 /* Photos 3 and 4 */
 .photo-slide.landscape {
-  width: 100%;
-  max-width: 1000px;
+  max-width: min(100%, 750px) !important;
+  max-height: 600px;
 }
 
 .photo-arrow {
+  flex: 0 0 auto;
   border: none;
   background: transparent;
   font-size: 2.2rem;
+  line-height: 1;
   cursor: pointer;
   padding: 0.5rem;
+}
+
+.photo-arrow:hover {
+  opacity: 0.6;
+}
+
+@media (max-width: 700px) {
+  .photo-slideshow {
+    gap: 0.25rem;
+  }
+
+  .photo-arrow {
+    font-size: 1.7rem;
+    padding: 0.25rem;
+  }
+
+  .photo-slide.portrait,
+  .photo-slide.landscape {
+    max-width: 100% !important;
+    max-height: 70vh;
+  }
 }
