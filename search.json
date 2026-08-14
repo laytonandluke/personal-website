@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "probabilistic_topology_playground.html",
+    "href": "probabilistic_topology_playground.html",
+    "title": "Probabilistic Topology Playground",
+    "section": "",
+    "text": "This page contains exploratory ideas, unfinished investigations, reading notes, and possible directions related to the intersection of probability and topology."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "outside_mathematics/personal_interests.html",
     "href": "outside_mathematics/personal_interests.html",
     "title": "Richard Oh",
@@ -12,19 +26,5 @@
     "title": "Richard A. Oh",
     "section": "",
     "text": "Hi! My name is Richard, and I am a fourth-year undergraduate studying mathematics at Stanford University. I am interested in the intersection between topology and probability—in particular, how the notion of randomness might offer new perspectives on topology through probabilistic methods. Currently, I am curious about how the rich algebraic machinery associated with topology might serve as a bridge between these seemingly distant branches of mathematics."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "probabilistic_topology_playground.html",
-    "href": "probabilistic_topology_playground.html",
-    "title": "Probabilistic Topology Playground",
-    "section": "",
-    "text": "This page contains exploratory ideas, unfinished investigations, reading notes, and possible directions related to the intersection of probability and topology."
   }
 ]
