@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://laytonandluke.github.io/personal-website/probabilistic_topology_playground.html</loc>
-    <lastmod>2026-08-07T14:08:07.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/about.html</loc>
-    <lastmod>2026-08-07T03:16:37.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/mathematics.html</loc>
-    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/outside_mathematics/personal_interests.html</loc>
-    <lastmod>2026-08-14T04:36:04.546Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/mathematics/investigations_and_projects/random-up-walks.html</loc>
-    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/mathematics/notes.html</loc>
-    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/mathematics/talks.html</loc>
-    <lastmod>2026-08-07T03:16:37.539Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/mathematics/investigations_and_projects.html</loc>
-    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laytonandluke.github.io/personal-website/outside_mathematics/education.html</loc>
+    <loc>https://laytonandluke.github.io/personal-website/test.html</loc>
     <lastmod>2026-08-07T03:16:37.539Z</lastmod>
   </url>
   <url>
@@ -41,7 +9,39 @@
     <lastmod>2026-08-14T04:21:00.228Z</lastmod>
   </url>
   <url>
-    <loc>https://laytonandluke.github.io/personal-website/test.html</loc>
+    <loc>https://laytonandluke.github.io/personal-website/outside_mathematics/education.html</loc>
+    <lastmod>2026-08-17T22:24:23.539Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/mathematics/investigations_and_projects.html</loc>
+    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/mathematics/talks.html</loc>
     <lastmod>2026-08-07T03:16:37.539Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/mathematics/notes.html</loc>
+    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/explorations_in_probabilistic_topology.html</loc>
+    <lastmod>2026-08-17T22:17:50.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/mathematics/investigations_and_projects/random-up-walks.html</loc>
+    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/outside_mathematics/personal_interests.html</loc>
+    <lastmod>2026-08-17T22:24:00.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/mathematics.html</loc>
+    <lastmod>2026-08-07T03:16:37.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laytonandluke.github.io/personal-website/about.html</loc>
+    <lastmod>2026-08-07T03:16:37.523Z</lastmod>
   </url>
 </urlset>
