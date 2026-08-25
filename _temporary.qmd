@@ -1,0 +1,299 @@
+
+<!--
+## Timeline of Personal Mathematical Invesitgations
+
+
+::::: {.alternating-timeline}
+
+<div class="timeline-group-title">
+  <span>Getting into mathematics</span>
+</div>
+
+:::: {.timeline-item .lime}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Winter 2022</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">First exposure to theoretical mathematics</div>
+
+### MATH 62CM: Multilinear Algebra, Differential Forms, and Stoke's Theorem
+
+Briefly describe the question that first motivated this investigation.
+
+:::
+
+::::
+
+
+:::: {.timeline-item .pink}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Self-learning how to speak the language of mathematics</div>
+
+### Mandatory service in the ROK Armed Forces
+
+Briefly describe the first mathematical approach or construction that
+you considered.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Fall 2022–Winter 2024</div>
+:::
+
+::::
+
+
+<div class="timeline-group-title">
+  <span>Exploring different areas of mathematics</span>
+</div>
+
+
+:::: {.timeline-item .purple}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Fall 2024</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">Exposure to mathematical technologies</div>
+
+### "Can AI Do Mathematics?" by Kevin Buzzard
+
+Describe the mathematical definitions, results, or tools that became
+central to the investigation.
+
+:::
+
+::::
+
+
+:::: {.timeline-item .orange}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Introduction to topology</div>
+
+### MATH 144: Introduction to Topology & Geometry
+
+Describe any examples, calculations, or computational experiments that
+you carried out.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Winter 2025</div>
+:::
+
+::::
+
+
+:::: {.timeline-item .red}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Summer 2025</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">Introduction to probability & working with Lean</div>
+
+### SURIM 2025: Formalizing Wigner's Semicircle Law in Lean
+
+Summarize the principal conclusions or observations that emerged from
+the investigation.
+
+:::
+
+::::
+
+<div class="timeline-group-title">
+  <span>Honing my mathematical interests</span>
+</div>
+
+:::: {.timeline-item .teal}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Polishing the foundation of topology and probability</div>
+
+### MATH 215 & 230 series
+
+Describe the questions that remain open or the directions that you
+would like to explore next.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Fall 2025–Winter 2026</div>
+:::
+
+::::
+
+:::: {.timeline-item .lime}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Spring 2026</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">First independent reading of research papers</div>
+
+### MATH 235: Modern Markov Chain
+
+Write the description of this stage here.
+
+:::
+
+::::
+
+
+:::: {.timeline-item .pink}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Exposure to low-dimensional topology</div>
+
+### IAS/PCMI 2026 USS: Knotted Surfaces in 4-Manifolds
+
+Write the description of this stage here.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Summer 2026</div>
+:::
+
+::::
+
+<div class="timeline-group-title">
+  <span>Current</span>
+</div>
+
+
+:::: {.timeline-item .purple}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Summer 2026–Present</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">Honors thesis preparation</div>
+
+### "Finite Quotients of 3-Manifold Groups"
+
+Write the description of this stage here.
+
+:::
+
+::::
+
+:::::
+
+-->
+
+
+
+
+<!-- With my growing interests in pure mathematics, I changed my first-year math sequence from applied to honors sequence in the Winter Quarter. That means I did not know how to speak the basic language of mathematics, not even the principle of induction. Consequently, I initially struggled a lot in the course. However, Yakov Eliashberg, who was the instructor, would (even while being, understandingly, a little grumpy) hold extra personal office hours, give out additional problems. While I ended up with a B+, I left the course having fallen in love with mathematics more than ever.
+
+On the last night of bootcamp for my mandatory service, the drill instructor made an announcement: that he would have succeeded as a drill instructor if he could reach to one trainee by heart. 
+
+That is why whether I teach ten, a hundred, or a thousand students, I will teach with the same care and diligence for the sake of those who is willing to learn—even if it might be a single student. If I can reach that one student, I will consider myself to have succeeded as an educator. -->
+
+<!--
+---
+title: "Personal Interests"
+---
+
+- I'm an avid enthusiast of social dance! In particular, I'm a big fan of cross-step waltz. You'll often find me at [Monday Night Dance Break](https://dancebreak.stanford.edu/), [Friday Night Waltz](http://fridaynightwaltz.com/), or [various social dance events](https://socialdance.stanford.edu/)!
+
+- I used to do unequipped [powerlifting](https://en.wikipedia.org/wiki/Powerlifting) as a serious hobby for a long time. Although I'm currently focusing on general hypertrophy, I'm planning to return to these sports in the near future!
+
+- While not an expert, I've been listening to a wide genre of music—in particular, hip-hop and R&B—since I was very little. Here're some albums currently at the top of my playlist:
+
+<div class="album-grid">
+
+<a href="https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh" target="_blank" rel="noopener noreferrer">
+  <img src="../images/Khelani_by_Khelani.jpg"
+       alt="First album cover">
+</a>
+
+<a href="https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC" target="_blank" rel="noopener noreferrer">
+  <img src="../images/All_Eyez_on_Me_by_2Pac.jpg"
+       alt="Second album cover">
+</a>
+
+<a href="https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi" target="_blank" rel="noopener noreferrer">
+  <img src="../images/Choosing_Texas_by_Ella_Langley.jpg"
+       alt="Third album cover">
+</a>
+
+</div>
+
+-->
+
+<!-- 
+
+---
+title: "A Note to Myself As a Future Educator"
+---
+
+## Teaching Philosophy
+
+Throughout my experience as a student so far, I have engraved the following principle in my heart:
+
+<div class="lesson-label"></div>
+
+> “If I can make a difference in one student’s life, I've succeeded as an educator.”
+
+<div class="quote-source"></div>
+
+
+
+## Teaching Techniques
+
+-->

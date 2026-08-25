@@ -1,0 +1,19 @@
+
+---
+title: "Developments in Probabilistic Topology"
+
+bibliography: references.bib
+nocite: |
+  @*
+
+format:
+  html:
+    grid:
+      body-width: 1100px
+---
+
+Below are some current studies that deal with (potentially adjacent) subjects in the intersection of topology and probability.
+
+::: {#refs}
+:::
+

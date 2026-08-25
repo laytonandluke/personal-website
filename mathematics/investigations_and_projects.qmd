@@ -1,0 +1,235 @@
+<!--
+## Timeline of Personal Mathematical Invesitgations
+
+
+::::: {.alternating-timeline}
+
+<div class="timeline-group-title">
+  <span>Getting into mathematics</span>
+</div>
+
+:::: {.timeline-item .lime}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Winter 2022</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">First exposure to theoretical mathematics</div>
+
+### MATH 62CM: Multilinear Algebra, Differential Forms, and Stoke's Theorem
+
+Briefly describe the question that first motivated this investigation.
+
+:::
+
+::::
+
+
+:::: {.timeline-item .pink}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Self-learning how to speak the language of mathematics</div>
+
+### Mandatory service in the ROK Armed Forces
+
+Briefly describe the first mathematical approach or construction that
+you considered.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Fall 2022–Winter 2024</div>
+:::
+
+::::
+
+
+<div class="timeline-group-title">
+  <span>Exploring different areas of mathematics</span>
+</div>
+
+
+:::: {.timeline-item .purple}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Fall 2024</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">Exposure to mathematical technologies</div>
+
+### "Can AI Do Mathematics?" by Kevin Buzzard
+
+Describe the mathematical definitions, results, or tools that became
+central to the investigation.
+
+:::
+
+::::
+
+
+:::: {.timeline-item .orange}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Introduction to topology</div>
+
+### MATH 144: Introduction to Topology & Geometry
+
+Describe any examples, calculations, or computational experiments that
+you carried out.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Winter 2025</div>
+:::
+
+::::
+
+
+:::: {.timeline-item .red}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Summer 2025</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">Introduction to probability & working with Lean</div>
+
+### SURIM 2025: Formalizing Wigner's Semicircle Law in Lean
+
+Summarize the principal conclusions or observations that emerged from
+the investigation.
+
+:::
+
+::::
+
+<div class="timeline-group-title">
+  <span>Honing my mathematical interests</span>
+</div>
+
+:::: {.timeline-item .teal}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Polishing the foundation of topology and probability</div>
+
+### MATH 215 & 230 series
+
+Describe the questions that remain open or the directions that you
+would like to explore next.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Fall 2025–Winter 2026</div>
+:::
+
+::::
+
+:::: {.timeline-item .lime}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Spring 2026</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">First independent reading of research papers</div>
+
+### MATH 235: Modern Markov Chain
+
+Write the description of this stage here.
+
+:::
+
+::::
+
+
+:::: {.timeline-item .pink}
+
+::: {.timeline-left .timeline-copy}
+
+<div class="timeline-date">Exposure to low-dimensional topology</div>
+
+### IAS/PCMI 2026 USS: Knotted Surfaces in 4-Manifolds
+
+Write the description of this stage here.
+
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-icon-wrap}
+<div class="timeline-icon">Summer 2026</div>
+:::
+
+::::
+
+<div class="timeline-group-title">
+  <span>Current</span>
+</div>
+
+
+:::: {.timeline-item .purple}
+
+::: {.timeline-left .timeline-icon-wrap}
+<div class="timeline-icon">Summer 2026–Present</div>
+:::
+
+::: {.timeline-center}
+<div class="timeline-segment"></div>
+:::
+
+::: {.timeline-right .timeline-copy}
+
+<div class="timeline-date">Honors thesis preparation</div>
+
+### "Finite Quotients of 3-Manifold Groups"
+
+Write the description of this stage here.
+
+:::
+
+::::
+
+:::::
+
+-->

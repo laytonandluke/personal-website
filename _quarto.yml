@@ -1,0 +1,65 @@
+project:
+  type: website
+
+website:
+  title: "Richard Oh"
+
+  drafts:
+    - temporary.qmd
+
+  draft-mode: gone
+
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - text: Mathematics
+        menu:
+          - href: mathematics/index.qmd
+            text: Overview
+
+          - href: mathematics/investigations_and_projects.qmd
+            text: "Projects & Personal Investigations"
+
+          - href: mathematics/notes.qmd
+            text: Various Notes
+
+      - text: Outside Mathematics
+        menu:
+          - href: outside_mathematics/education.qmd
+            text: Personal Note on Education
+
+          - href: outside_mathematics/personal_interests.qmd
+            text: Personal Interests
+
+      - href: developments_probabilistic_topology.qmd
+        text: Developments in Probabilistic Topology
+
+  sidebar:
+    - title: "Mathematics"
+      style: floating
+      contents:
+        - href: mathematics/index.qmd
+          text: Overview
+
+        - section: "Projects & Personal Investigations"
+          href: mathematics/investigations_and_projects.qmd
+          contents:
+            - href: mathematics/investigations_and_projects/random-up-walks.qmd
+              text: "Random Up-Walks on Simplicial Complexes"
+
+        - href: mathematics/notes.qmd
+          text: Various Notes
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
