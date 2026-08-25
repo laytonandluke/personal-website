@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Richard A. Oh",
+    "objectID": "developments_probabilistic_topology.html",
+    "href": "developments_probabilistic_topology.html",
+    "title": "Developments in Probabilistic Topology",
     "section": "",
-    "text": "Hi! My name is Richard, and I am a fourth-year undergraduate studying mathematics at Stanford University. I am interested in the intersection between topology and probability—in particular, how the notion of randomness might offer new perspectives on topology through probabilistic methods. Currently, I am curious about how the rich algebraic machinery associated with topology might serve as a bridge between these seemingly distant branches of mathematics."
-  },
-  {
-    "objectID": "explorations_in_probabilistic_topology.html",
-    "href": "explorations_in_probabilistic_topology.html",
-    "title": "Explorations in Probabilistic Topology",
-    "section": "",
-    "text": "Below are some current findings I have discovered that deal with (potentially adjacent) subjects in the intersection of topology and probability.\n\n\nBismut, Jean-Michel. 1984. “The Atiyah-Singer Theorems: A Probabilistic Approach. II. The Lefschetz Fixed Point Formulas.” Journal of Functional Analysis 57 (3): 329–48. https://doi.org/https://doi.org/10.1016/0022-1236(84)90106-X.\n\n\nDunfield, Nathan M., and William P. Thurston. 2006. “Finite Covers of Random 3-Manifolds.” Inventiones Mathematicae 166: 457–521. https://doi.org/10.1007/s00222-006-0001-6.\n\n\nEven-Zohar, Chaim. 2017. “Models of Random Knots.” Journal of Applied and Computational Topology 1: 263–96. https://doi.org/10.1007/s41468-017-0007-8.\n\n\nEynard, Bertrand. 2016. Counting Surfaces: CRM Aisenstadt Chair Lectures. 1st ed. Progress in Mathematical Physics. Birkhäuser Basel. https://doi.org/10.1007/978-3-7643-8797-6.\n\n\nMorishita, Masanori. 2024. Knots and Primes: An Introduction to Arithmetic Topology. 2nd ed. Universitext. Springer Nature Singapore. https://doi.org/10.1007/978-981-99-9255-3.\n\n\nNicolaescu, Liviu I. 2014. “Complexity of Random Smooth Functions on Compact Manifolds.” Indiana University Mathematics Journal 63 (4): 1037–65. https://www.jstor.org/stable/24904252.\n\n\nParzanchevski, Ori, and Ron Rosenthal. 2016. “Simplicial Complexes: Spectrum, Homology and Random Walks.” Random Structures &Amp; Algorithms 50 (2): 225–61. https://doi.org/10.1002/rsa.20657.\n\n\nSawin, Will, and Melanie Matchett Wood. 2024. “Finite Quotients of 3-Manifold Groups.” Inventiones Mathematicae 237: 349–440. https://doi.org/10.1007/s00222-024-01262-4."
+    "text": "Below are some current studies that deal with (potentially adjacent) subjects in the intersection of topology and probability.\n\n\nBismut, Jean-Michel. 1984. “The Atiyah-Singer Theorems: A Probabilistic Approach. II. The Lefschetz Fixed Point Formulas.” Journal of Functional Analysis 57 (3): 329–48. https://doi.org/https://doi.org/10.1016/0022-1236(84)90106-X.\n\n\nDunfield, Nathan M., and William P. Thurston. 2006. “Finite Covers of Random 3-Manifolds.” Inventiones Mathematicae 166: 457–521. https://doi.org/10.1007/s00222-006-0001-6.\n\n\nEven-Zohar, Chaim. 2017. “Models of Random Knots.” Journal of Applied and Computational Topology 1: 263–96. https://doi.org/10.1007/s41468-017-0007-8.\n\n\nEynard, Bertrand. 2016. Counting Surfaces: CRM Aisenstadt Chair Lectures. 1st ed. Progress in Mathematical Physics. Birkhäuser Basel. https://doi.org/10.1007/978-3-7643-8797-6.\n\n\nMorishita, Masanori. 2024. Knots and Primes: An Introduction to Arithmetic Topology. 2nd ed. Universitext. Springer Nature Singapore. https://doi.org/10.1007/978-981-99-9255-3.\n\n\nNicolaescu, Liviu I. 2014. “Complexity of Random Smooth Functions on Compact Manifolds.” Indiana University Mathematics Journal 63 (4): 1037–65. https://www.jstor.org/stable/24904252.\n\n\nParzanchevski, Ori, and Ron Rosenthal. 2016. “Simplicial Complexes: Spectrum, Homology and Random Walks.” Random Structures &Amp; Algorithms 50 (2): 225–61. https://doi.org/10.1002/rsa.20657.\n\n\nSawin, Will, and Melanie Matchett Wood. 2024. “Finite Quotients of 3-Manifold Groups.” Inventiones Mathematicae 237: 349–440. https://doi.org/10.1007/s00222-024-01262-4."
   },
   {
     "objectID": "outside_mathematics/personal_interests.html",
     "href": "outside_mathematics/personal_interests.html",
     "title": "Personal Interests",
     "section": "",
-    "text": "Below are some moments I remember fondly of:\n\n\n\n\n❮\n\n\n\n\n\n\n\n\n\n\n❯"
+    "text": "Below are some of my fond memories.\n\n\n\n\n❮\n\n\n\n\n\n\n\n\n\n\n❯"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Richard A. Oh",
+    "section": "",
+    "text": "Hi! My name is Richard, and I am a fourth-year undergraduate studying mathematics at Stanford University. I am interested in the intersection between topology and probability—in particular, how the notion of randomness might offer new perspectives on topology through probabilistic methods. Currently, I am curious about how the rich algebraic machinery associated with topology might serve as a bridge between these seemingly distant branches of mathematics."
   },
   {
     "objectID": "about.html",
