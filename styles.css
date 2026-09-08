@@ -342,7 +342,7 @@
 
   .home-profile {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: stretch;
   }
 
   .home-profile-image {
@@ -351,11 +351,12 @@
   }
 
   .home-profile-text {
-    width: 100%;
+    width: auto;
+    max-width: none;
+    align-self: stretch;
   }
 
 }
-
 
 
 
