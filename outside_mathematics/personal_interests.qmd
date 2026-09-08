@@ -3,7 +3,7 @@
 title: Personal Interests
 ---
 
-Below are some of my fond memories.
+Below capture some of my fond memories.
 
 ```{=html}
 <style>
