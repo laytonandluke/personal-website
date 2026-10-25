@@ -1,0 +1,8 @@
+
+/.quarto/
+/_site/
+**/*.quarto_ipynb
+
+temporary.qmd
+/.quarto/
+/_site/

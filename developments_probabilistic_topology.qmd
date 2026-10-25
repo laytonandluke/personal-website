@@ -1,0 +1,48 @@
+
+---
+title: "Developments in Probabilistic Topology"
+
+bibliography: references.bib
+nocite: |
+  @*
+
+format:
+  html:
+    grid:
+      body-width: 1100px
+---
+
+Below are some current studies that deal with (potentially adjacent) subjects in the intersection of topology and probability. The list will be substantially updated and organized later. 
+
+
+::: {#refs}
+:::
+
+
+::: {#random-knots-footnote-source}
+[^random-knots]
+:::
+
+[^random-knots]: This paper was recommended by [Sarah](https://seblackwell.com/) during IAS/PCMI 2026 USS. 
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const footnote = document.querySelector(
+    "#random-knots-footnote-source a.footnote-ref"
+  );
+
+  const reference = document.getElementById(
+    "ref-evenzohar2017modelsofrandomknots"
+  );
+
+  if (footnote && reference) {
+    reference.appendChild(document.createTextNode(" "));
+    reference.appendChild(footnote);
+  }
+});
+</script>
+
+
